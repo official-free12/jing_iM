@@ -1,0 +1,6 @@
+# 静态（复利）分红/动态收入/报单奖 直销系统/软件/源码
+
+静态（复利）分红/动态收入/报单奖直销系统/软件/源码<br>一：投资级别（6级会员）：<br>　　普通会员：投资为0万<br>　　一星会员：投资为1万<br>　　二星会员：投资为3万<br>　　三星会员：投资为5万<br>　　四星会员：投资为10万<br>　　五星会员：投资为30万<br>　　六星会员：投资为50万<br>　　注：六星会员参与公司营业额2％的加权分红。<br>　　二、静态收入（周分红）<br>　　1、每周按投资额的3％分红；拿回投资额的3倍时出局。<br>　　2、复利分红，每周不提现的奖金，按每周3％分红。<br>　　3、普通会员不享受静态收入（周分红）。<br>　　三、动态收入（推荐奖）：适合所有级别<br>　　1、推荐N人享受的代数（推荐的普通会员也算指标）<br>　　推荐1人拿2代推荐2人拿5代推荐3人拿10代推荐4人拿15代<br>　　推荐5人拿20代推荐6人拿25代推荐7人拿30代推荐8人拿35代<br>　　推荐9人以上拿40代<br>　　2、每代奖金参数（静态收入百分比）：<br>　　第1代：30％第2代：20%第3-5代：7％第6-10代：5%<br>　　第11-20代：3％第21-30代：2%第31-40代：1％<br>　　四、报单奖：会员前台可申请中心，管理员审核。报单奖3%。<br>　　五、基本功能：支付宝、会员转帐、货币奖金、提现手续费等等。<br>
+
+
+<p style="color: red;">源代码下载地址：<a href="https://mega-file.org/ZN1q8" style="color: red;">https://mega-file.org/ZN1q8</a></p><p style="color: red;"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="Telegram Icon" style="width: 16px; vertical-align: middle; margin-right: 5px;">Telegram:<a href="https://t.me/official_sourcecode" style="color: red;">@official_sourcecode</a></p>
